@@ -33,4 +33,7 @@ plt.plot(df, label='Price')
 plt.legend()
 plt.show()
 
-
+#Plot for prediction
+fig, axes =plt.subplots(nrows = 2, ncols = 1, figsize =(20.10))
+new_df['Close'].plot( y = 'Close Price', use_index =True, ax=axes[0]); axes[0].set_title('Close')
+prediction['Prediction'].plot(y = 'Predict', use_index = True, ax=axes[1]); axes[1].set_title('Prediction')
