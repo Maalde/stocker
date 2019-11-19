@@ -4,7 +4,7 @@ Stocker is a python tool that uses ANN to predict the stock's close price for th
 ## Authors
 
 * **Juan Camilo Gonzalez Angarita** - [jcamiloangarita](https://github.com/jcamiloangarita)
-* **Moses Maalidefaa Tantuoyir**
+* **Moses Maalidefaa Tantuoyir** - [maalde](https://github.com/Maalde)
 * **Anthony Ibeme** 
 
 See the full list of [contributors](https://github.com/jcamiloangarita/stocker/graphs/contributors) involved in this project.
